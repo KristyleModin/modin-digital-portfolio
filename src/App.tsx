@@ -482,7 +482,7 @@ const Future = () => (
   <motion.div
     initial={{ opacity: 0 }}
     animate={{ opacity: 1 }}
-    className="max-w-6xl mx-auto py-32"
+    className="max-w-6xl mx-auto pt-12 pb-32"
   >
     <div className="px-10">
       <h3 className="font-mono text-sm uppercase tracking-[0.3em] text-cedar/80 mb-8 text-center">FUTURE</h3>
